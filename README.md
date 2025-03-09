@@ -20,7 +20,7 @@ Currently expanding my skills and learning new technologies.
 I have experience building e-commerce platforms and a To-Do list app. 
 
 My background as a bartender-barista has strengthened my communication and multitasking skills. 
-I’m adaptable, eager to contribute, and open to relocation within Poland.</h3>**
+I’m adaptable, eager to contribute.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
