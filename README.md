@@ -25,7 +25,7 @@ I’m adaptable, eager to contribute.</h3>**
 **<h3 align="left">About</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new TodoList platform using React and Nest.js**
-- 🌱 I'm currently learning: **📚 Backend **
+- 🌱 I'm currently learning: **📚 Backend**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, PostgreSQL, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
